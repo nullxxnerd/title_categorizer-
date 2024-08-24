@@ -1,6 +1,6 @@
 ## Overview
 
-This project aims to develop a product categorization system using deep learning. The input to the model is a text description of a product, and the output is the predicted category. The model uses a CNN-based architecture, which is effective in capturing local patterns in the text data, making it suitable for this classification task.
+This project aims to develop a product categorization system using deep learning. The input to the model is a text description of a product, and the output is the predicted category. The model uses a CNN-based architecture, used on the torob products dataset, which is effective in capturing local patterns in the text data, making it suitable for this classification task. 
 
 ## Model Architecture
 
